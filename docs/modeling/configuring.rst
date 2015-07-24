@@ -85,7 +85,7 @@ The following code shows how to specify an index on a single property. By defaul
         :emphasize-lines: 7-8
         :linenos:
 
-You can also specify that an idex should be unique, meaning that no two entities can have the same value(s) for the given property(s).
+You can also specify that an index should be unique, meaning that no two entities can have the same value(s) for the given property(s).
 
 .. literalinclude:: configuring/sample/EFModeling.Configuring.FluentAPI/Samples/IndexUnique.cs
         :language: c#
